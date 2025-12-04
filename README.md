@@ -4,12 +4,12 @@
 **Institution:** Universiti Teknologi Malaysia (UTM)  
 **Tools:** Deeds (Digital Electronics Education and Design Suite)
 
-## 📖 Project Overview
+## Project Overview
 This project simulates a real-world scenario where data packets are transmitted between computers in two different laboratories (Lab 1 and Lab 2) over a single cable. The system is designed to regulate, monitor, and secure data packet transmission using fundamental digital logic components.
 
 The project demonstrates the practical application of multiplexers, counters, comparators, and logic gates to create a synchronized, full-duplex communication system with built-in error detection.
 
-## ✨ Key Features
+## Key Features
 * **Packet Routing:** Uses 8-to-1 MUX and 1-to-8 DEMUX to select source and destination computers dynamically.
 * **Synchronous Counting:** Implements a 3-bit synchronous counter using T flip-flops to track transmitted packets.
 * **Traffic Control:** Features a **Comparator** and **Clock Enabler** to automatically stop transmission when a user-defined packet limit is reached.
@@ -23,7 +23,7 @@ The project demonstrates the practical application of multiplexers, counters, co
     * Data Error (101)
     * Multiple Errors (111)
 
-## 🛠️ System Architecture
+## System Architecture
 The system is composed of several distinct logic modules:
 
 1.  **Computer Module:** Simulates the user end-point with Power, Data, and Clock inputs.
@@ -45,16 +45,6 @@ To run this project, you need the **Deeds** software.
 7.  **Authenticate:** Enter the security PIN (Default: `2025`).
 8.  **Verify Status:** Check the Fault Detection Panel to ensure "NO ERROR" is displayed.
 9.  **Transmit:** Click the Clock in the "SEND DATA" section to begin transmission.
-
-## 👥 Project Team (Group 2)
-* **Aiman Nurzharfan Bin Mohd Ali Yusni** (A24CS0039)
-* **Hazza Raed** (A23CS4041)
-* **Rafly Salim Kaaffah Abdillah** (A24CS9009)
-* **Md. Farhan Mahtab** (A24CS4021)
-
-## 📄 Acknowledgments
-* **Lecturer:** Dr. Mohd Foad bin Rohani
-* **Faculty:** Faculty of Computing, UTM
 
 ---
 *This project was developed for the Semester 01 2024/2025 session.*
