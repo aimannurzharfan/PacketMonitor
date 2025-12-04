@@ -33,7 +33,7 @@ The system is composed of several distinct logic modules:
 5.  **Comparator:** Compares `Data Sent` vs. `Max Limit` to prevent overflow.
 6.  **Fault Detection Panel:** Visual feedback for system status and debugging.
 
-## 🚀 How to Run the Simulation
+## How to Run the Simulation
 To run this project, you need the **Deeds** software.
 
 1.  Open the circuit file in Deeds.
@@ -46,5 +46,18 @@ To run this project, you need the **Deeds** software.
 8.  **Verify Status:** Check the Fault Detection Panel to ensure "NO ERROR" is displayed.
 9.  **Transmit:** Click the Clock in the "SEND DATA" section to begin transmission.
 
+##  Explanation of the Project
+Video Link : https://youtu.be/JScsWvTmws0
+
+## 👥 Project Team (Group 2)
+* **Aiman Nurzharfan Bin Mohd Ali Yusni** (A24CS0039)
+* **Hazza Raed** (A23CS4041)
+* **Rafly Salim Kaaffah Abdillah** (A24CS9009)
+* **Md. Farhan Mahtab** (A24CS4021)
+
+## 📄 Acknowledgments
+* **Lecturer:** Dr. Mohd Foad bin Rohani
+* **Faculty:** Faculty of Computing, UTM
+  
 ---
 *This project was developed for the Semester 01 2024/2025 session.*
